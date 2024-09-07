@@ -1,0 +1,2 @@
+.
+- [[Bajo acoplamiento, alta cohesión]] 
